@@ -1,0 +1,9 @@
+Django>=4.0
+djangorestframework
+djangorestframework-simplejwt
+celery
+redis
+Pillow
+PyPDF2
+ffmpeg-python
+drf-yasg
